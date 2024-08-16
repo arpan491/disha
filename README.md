@@ -1,16 +1,11 @@
-# disha
+# DISHA - A Quick Query Resolving Mobile Application
+A cross-platform mobile application developed using Flutter to resolve queries of students and/or parents related to any given topic by subject matter experts onboarded on our platform quickly.
 
-A new Flutter project.
+# Salient Features of the Application 
+1. Authentication and Authorization of Users including Experts
+2. One-on-One Chat with Expert with support for multi-lingual text and images 
+3. Chat Forum
+4. Online Video Conference Booking
+5. Query Submission, Acceptance by Expert and Resolution
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+NOTE: This project was presented at the Grand Finals of Smart India Hackathon'22 to solve a problem statement given by the National Digital Education Architecture (NDEAR), Department of School Education & Literacy (DoSEL) [Link](https://sih.gov.in/sih2022PS)
