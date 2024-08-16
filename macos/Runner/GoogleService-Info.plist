@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>660104539628-fjgppr447pgfvfmj8sghqn04crt38dcq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.660104539628-fjgppr447pgfvfmj8sghqn04crt38dcq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBtxT3_2kWjLpB3UT6T8ojdcfotI1a6wlg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>660104539628</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.disha</string>
+	<key>PROJECT_ID</key>
+	<string>disha-8804e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>disha-8804e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:660104539628:ios:78bb61ad5e2ee3f9aa64c9</string>
+</dict>
+</plist>
